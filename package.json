@@ -2,7 +2,7 @@
   "name": "semantic-release-repro",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/mario-jerkovic/semantic-release-repro.git",
+  "repository": "git@github.com:mario-jerkovic/semantic-release-repro.git",
   "author": "mario.jerkovic <mario.jerkovic@rimac-automobili.com>",
   "license": "MIT",
   "packageManager": "yarn@3.1.1",
